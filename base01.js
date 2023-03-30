@@ -1,0 +1,18 @@
+let na='홍길동';
+let age=25;
+let result=`${na}의 나이는 ${age}세 입니다.`; 
+console.log(result);
+let num=20;
+num=50;
+console.log(num);
+const pi=3.14;
+console.log(pi);
+const str1='10';
+const str2='20';
+console.log('두 문자 더하기 = %s',str1+str2);
+const num1=10;
+const num2=20;
+console.log('두 숫자의 합 = %d',num1+num2);
+console.log('혼합 더하기 = %s',str1+num2);
+const arrnum=[10,20,30];
+console.log(arrnum[0]);
